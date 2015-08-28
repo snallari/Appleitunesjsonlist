@@ -1,0 +1,5 @@
+FILE DELETED
+
+Microsoft Forefront Security for Exchange Server removed a file since it was found to match a filter.
+File name: "InterviewTest.zip->gradlew.bat"
+Filter name: "FILE FILTER= Blocked Extensions: *.bat"

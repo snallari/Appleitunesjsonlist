@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Sai/Desktop/MyProjects/Attachments_201586/InterviewTest/InterviewTest/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Rock Catalogue</string>
+    <!-- From: file:/C:/Users/Sai/Desktop/MyProjects/Attachments_201586/InterviewTest/InterviewTest/app/src/main/res/values/sql.xml -->
+    <eat-comment/>
+    <string name="sql_column_song_artist">artist</string>
+    <string name="sql_column_song_cover">cover</string>
+    <string name="sql_column_song_coverURL">coverURL</string>
+    <string name="sql_column_song_id">_id</string>
+    <string name="sql_column_song_idsong">idSong</string>
+    <string name="sql_column_song_price">price</string>
+    <string name="sql_column_song_title">title</string>
+    <string name="sql_createtable_song">CREATE TABLE IF NOT EXISTS song (_id INT PRIMARY KEY, idSong INT UNIQUE, title TEXT, artist TEXT, price FLOAT, coverURL TEXT, cover TEXT);</string>
+    <string name="sql_db_directory">/data/data/com.intelematics.exercise/databases/songCatalogue.db</string>
+    <string name="sql_db_name">songCatalogue</string>
+    <string name="sql_droptable_song">DROP TABLE IF EXISTS song;</string>
+    <string name="sql_select_all_songs">
+	    SELECT _id, idSong, title, artist, price, coverURL, cover
+	    FROM song;
+    </string>
+    <string name="sql_table_song">song</string>
+    <string name="sql_update_song_cover_whereclause">idSong = ?</string>
+    <!-- From: file:/C:/Users/Sai/Desktop/MyProjects/Attachments_201586/InterviewTest/InterviewTest/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
