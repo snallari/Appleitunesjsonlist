@@ -2,4 +2,4 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 	<item android:id="@+id/context_menu_delete"
 	    android:title="Remove from list"/>
-</menu><!-- From: file:/C:/Users/Sai/Desktop/MyProjects/Attachments_201586/InterviewTest/InterviewTest/app/src/main/res/menu/song_list_context_menu.xml -->
+</menu><!-- From: file:/Users/shrutinallari/Appleitunesjsonlist/InterviewTest/app/src/main/res/menu/song_list_context_menu.xml -->
